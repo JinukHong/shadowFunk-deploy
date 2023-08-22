@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+openai==0.27.8
+requests
+plotly
+statsmodels
+pmdarima
